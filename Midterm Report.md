@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-This midterm report presents a comprehensive explanation of the work completed during Week 1 and Week 2 of the project, as implemented in the notebook `submission-week2.ipynb`. The primary objective of this phase was to develop a strong foundation in financial time series analysis by working with real-world stock market data, applying statistical techniques, computing returns across multiple horizons, and performing systematic feature engineering.
+This midterm report presents a comprehensive explanation of the work completed during Week 1 and Week 2 of the project, as implemented in the notebook `submission-week2.ipynb`. The primary objective of this phase was to develop a strong foundation in financial time series analysis by working with real world stock market data, applying statistical techniques, computing returns across multiple horizons, and performing systematic feature engineering.
 
 ---
 
